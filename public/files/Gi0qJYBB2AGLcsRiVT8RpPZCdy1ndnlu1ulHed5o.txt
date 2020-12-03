@@ -1,0 +1,5 @@
+John,Doe,120 jefferson st.,Riverside
+Jack,McGinnis,220 hobo Av.,Phila
+"John ""Da Man""",Repici,120 Jefferson St.,Riverside
+Stephen,Tyler,"7452 Terrace ""At the Plaza"" road",SomeTown
+"Joan ""the bone"", Anne",Jet,"9th, at Terrace plc",Desert City
